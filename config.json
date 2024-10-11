@@ -1,0 +1,5 @@
+{
+    "telegramBotToken": "YOUR_TELEGRAM_BOT_TOKEN",
+    "telegramChatID": "YOUR_TELEGRAM_CHAT_ID",
+    "rpcEndpoint": "http://localhost:26657/status"
+  }
